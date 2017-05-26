@@ -18,3 +18,5 @@ I = imread('rice.png');
 I2 = im2bw(I, 0.5);
 subplot(2, 3, 4), imshow(I);
 subplot(2, 3, 5), imshow(I2);
+
+  
